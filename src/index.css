@@ -52,6 +52,7 @@ body {
 /* colors */
 .red {
   background-color: #cf000f;
+  padding: 15px;
 }
 .orange {
   background-color: #eb6b56;
@@ -61,12 +62,14 @@ body {
 }
 .green {
   background-color: #27ae60;
+  padding: 15px;
 }
 .blue {
   background-color: #1d4fda;
 }
 .violet {
   background-color: #462446;
+  padding: 15px;
 }
 .black {
   background-color: #000000;
